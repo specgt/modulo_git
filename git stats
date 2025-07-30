@@ -1,0 +1,39 @@
+[33mcommit 71ea2051552c2fecd82d915450361cfb5546be41[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: specgt <spectregt76@gmail.com>
+Date:   Wed Jul 30 12:32:48 2025 -0300
+
+    Revert "adicionando um arquivo"
+    
+    This reverts commit 8e797bc4841ae6602b36a5627164e04f09c034ad.
+
+[33mcommit 8e797bc4841ae6602b36a5627164e04f09c034ad[m[33m ([m[1;32mmain[m[33m)[m
+Author: specgt <spectregt76@gmail.com>
+Date:   Wed Jul 30 12:06:11 2025 -0300
+
+    adicionando um arquivo
+
+[33mcommit 03afdeec0e52c83c3945c5329ec4f59c47017c0c[m
+Author: specgt <spectregt76@gmail.com>
+Date:   Wed Jul 23 18:24:29 2025 -0300
+
+    inclusão de changelog.md
+
+[33mcommit 6760e3c5d607c3108f1e8020f08e42cb1cdfcae9[m
+Author: specgt <spectregt76@gmail.com>
+Date:   Wed Jul 23 18:12:14 2025 -0300
+
+    colocando acentuação no arquivo2.txt
+
+[33mcommit c9206d937f1580bb1fa6bb81c36526efef696455[m
+Author: specgt <spectregt76@gmail.com>
+Date:   Wed Jul 23 18:08:15 2025 -0300
+
+    alterando o conteudo arquivo2.txt
+
+[33mcommit 51540c75c82c2702891484e2be706ad2e9b11db7[m
+Author: specgt <spectregt76@gmail.com>
+Date:   Wed Jul 23 17:17:31 2025 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos arquivo.txt e arquivo2.txt
